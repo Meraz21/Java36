@@ -25,6 +25,9 @@ public static void main(String[] args) {
 	allname.add("Meraz");
 	allname.add("Babul");
 	allname.add("Hasan");
+	allname.add("Shama");
+	allname.add("Rihan");
+	
 	
 	System.out.println("\nAvailable List name is : ");
 	for (Object listname : allname) {
