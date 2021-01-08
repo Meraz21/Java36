@@ -29,6 +29,9 @@ public static void main(String[] args) {
 	allname.add("Rihan");
 	allname.add("Sayed");
 	allname.add("Tuhi");
+	allname.add("Ohi");
+	allname.add(allname);
+	System.out.println("\nFollowing Index Nmae is : " + allname.get(3));
 	
 	
 	System.out.println("\nAvailable List name is : ");
