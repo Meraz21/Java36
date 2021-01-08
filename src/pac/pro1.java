@@ -5,7 +5,7 @@ import java.util.ArrayList;
 public class pro1 {
 public static void main(String[] args) {
 	String [] name = {"Khosruz", "Zaman", "Meraz", "Liza", "Amma", "Abba", "Vai", "Sister", "Anika", 
-			"Rehan", "Shama"};
+			"Rehan", "Shama", "Sayed", "Tuhi"};
 	System.out.println("Available name is: ");
 	for (String lis : name) {
 		System.out.print(lis+", ");
