@@ -27,6 +27,8 @@ public static void main(String[] args) {
 	allname.add("Hasan");
 	allname.add("Shama");
 	allname.add("Rihan");
+	allname.add("Sayed");
+	allname.add("Tuhi");
 	
 	
 	System.out.println("\nAvailable List name is : ");
