@@ -32,6 +32,8 @@ public static void main(String[] args) {
 	allname.add("Ohi");
 	allname.add(allname);
 	allname.add("Bangladesh");
+	allname.add("USA");
+	
 	System.out.println("\nFollowing Index Nmae is : " + allname.get(3));
 	
 	
